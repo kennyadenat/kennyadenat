@@ -57,6 +57,9 @@
 
 <h3>Hobbies</h3>
 <p>💞️ I love travelling, playing games and reading books</p>
+  
+<h3>Gitub Stats</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kennyadenat&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!---
 kennyadenat/kennyadenat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
