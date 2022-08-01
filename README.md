@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kehinde Adelugba 
 - 👀 I’m interested in Product and Engineering roles
-- 🌱 I’m currently learning machine learning 
+- 🌱 Developing myself to becoming to best technology, business and people leader
 - 💞️ I love travelling, playing games and reading books
 - 📫 Email: Adelugba.ko@gmail.com
 <!---
