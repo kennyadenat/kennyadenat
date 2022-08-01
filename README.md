@@ -56,7 +56,7 @@
 <br><br><br>
 
 <h3>Hobbies</h3>
-<p>💞️ I love travelling, playing games and reading books</p>
+<p>💞️ I love travelling, playing games and reading books</p><br>
   
 <h3>Gitub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kennyadenat&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
