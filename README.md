@@ -7,7 +7,7 @@
 
 <p>
 <a href="https://adelugbakehinde.netlify.app/" target="_blank">
-<img alt="React" src="https://res.cloudinary.com/dy0ccfsbp/image/upload/v1659895615/resume/Screenshot_235_etahaz.png" />
+<img target="_blank" alt="React" src="https://res.cloudinary.com/dy0ccfsbp/image/upload/v1659895615/resume/Screenshot_235_etahaz.png" />
 </a>
 </p>
 
