@@ -1,9 +1,9 @@
-<h1>👋 Haloha! Nice to see you.</h1>
+<h1>👋 Haloha! Glad you could join Me.</h1>
 
 
 
-<h4>Welcome to my profile! </br> I'm Kehinde, Fullstack developer who is transitioning to Product Management. He lives and works from <b>Abuja, Nigeria <img src="https://cdn-icons.flaticon.com/png/512/5922/premium/5922004.png?token=exp=1659353245~hmac=ceee2f18dc6df8ef6447d37fa1fed596" width="16"/></b>, and open to exciting roles from any part of the World!</b><img src="https://cdn-icons.flaticon.com/png/512/2072/premium/2072130.png?token=exp=1659353461~hmac=84392e96a9898b8549b3c31216ce0ef7" width="18"/></h4>
-<h4>I’m a product leader with multiple hands-on experience crafting digital products, leading digital initiative, conducting policy research, and entrepreneurship. As a former software engineer turned product manager, I understand the nuances that goes into building great products that are scalable, intuitive, people love through<h4><br>
+<h4>Welcome to my profile! </br> I'm Kehinde, a Fullstack developer who is transitioning to Product Management. He lives and works from <b>Abuja, Nigeria <img src="https://cdn-icons.flaticon.com/png/512/5922/premium/5922004.png?token=exp=1659353245~hmac=ceee2f18dc6df8ef6447d37fa1fed596" width="16"/></b>, and open to exciting roles from any part of the World!</b><img src="https://cdn-icons.flaticon.com/png/512/2072/premium/2072130.png?token=exp=1659353461~hmac=84392e96a9898b8549b3c31216ce0ef7" width="18"/></h4>
+<h4>I’m a product leader with multiple hands-on experiences crafting digital products, leading digital initiatives, conducting policy research, and entrepreneurship. As a former software engineer turned product manager, I understand the nuances that go into building great products that are scalable, intuitive, people love through<h4><br>
 
 <p>
 <a href="https://adelugbakehinde.netlify.app/" target="_blank">
